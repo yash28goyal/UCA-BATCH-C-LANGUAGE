@@ -1,0 +1,19 @@
+Basic Defination of library
+> collection of similar kind of things (Ex. Books)
+
+header file me hmara tempplate define hota hai
+
+
+for example :
+printf.c - program                                      void printf(String str, void* args....) {}
+compile par printf.o file create ho jayegi
+
+
+header.h
+int add(int. int)
+int sub(int, int)
+
+program.c           
+int main() {
+    printf("%d", add(1, 2));
+}                    
